@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-27T22:15:02 COT" name="tests.Tests" finished-at="2022-07-27T22:15:55 COT" duration-ms="52576">
+    <groups>
+    </groups>
+    <test started-at="2022-07-27T22:15:02 COT" name="Command line test" finished-at="2022-07-27T22:15:55 COT" duration-ms="52576">
+      <class name="tests.Tests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Tests@564718df]" started-at="2022-07-27T22:15:02 COT" name="setUp" finished-at="2022-07-27T22:15:12 COT" duration-ms="9805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginIncorrecto()[pri:0, instance:tests.Tests@564718df]" started-at="2022-07-27T22:15:12 COT" name="LoginIncorrecto" finished-at="2022-07-27T22:15:22 COT" duration-ms="9959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginIncorrecto -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Tests@564718df]" started-at="2022-07-27T22:15:22 COT" name="tearDown" finished-at="2022-07-27T22:15:22 COT" duration-ms="293" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginIncorrecto status=SUCCESS method=Tests.LoginIncorrecto()[pri:0, instance:tests.Tests@564718df] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Tests@564718df]" started-at="2022-07-27T22:15:22 COT" name="setUp" finished-at="2022-07-27T22:15:31 COT" duration-ms="8871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fligthReservation()[pri:0, instance:tests.Tests@564718df]" started-at="2022-07-27T22:15:31 COT" name="fligthReservation" finished-at="2022-07-27T22:15:46 COT" duration-ms="14222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fligthReservation -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Tests@564718df]" started-at="2022-07-27T22:15:46 COT" name="tearDown" finished-at="2022-07-27T22:15:46 COT" duration-ms="221" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fligthReservation status=SUCCESS method=Tests.fligthReservation()[pri:0, instance:tests.Tests@564718df] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Tests@564718df]" started-at="2022-07-27T22:15:46 COT" name="setUp" finished-at="2022-07-27T22:15:54 COT" duration-ms="8691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="pruebaInputsNumber()[pri:0, instance:tests.Tests@564718df]" started-at="2022-07-27T22:15:54 COT" name="pruebaInputsNumber" finished-at="2022-07-27T22:15:55 COT" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaInputsNumber -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Tests@564718df]" started-at="2022-07-27T22:15:55 COT" name="tearDown" finished-at="2022-07-27T22:15:55 COT" duration-ms="284" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=pruebaInputsNumber status=SUCCESS method=Tests.pruebaInputsNumber()[pri:0, instance:tests.Tests@564718df] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- tests.Tests -->
+</testng-results>
